@@ -1,0 +1,56 @@
+Here are 5 simple Python questions with one correct answer and four wrong answers:
+
+---
+
+**1. What is the output of the following code?**
+```python
+print(2 + 3 * 4)
+```
+- a) 14  
+- b) 20  
+- c) 24  
+- d) 12  
+- **Correct answer: a) 14**
+
+---
+
+**2. Which of the following is used to define a function in Python?**
+- a) def  
+- b) func  
+- c) function  
+- d) define  
+- **Correct answer: a) def**
+
+---
+
+**3. What is the data type of the variable `x` in the following code?**
+```python
+x = "Hello"
+```
+- a) int  
+- b) list  
+- c) str  
+- d) float  
+- **Correct answer: c) str**
+
+---
+
+**4. How do you write a single-line comment in Python?**
+- a) // This is a comment  
+- b) /* This is a comment */  
+- c) # This is a comment  
+- d) -- This is a comment  
+- **Correct answer: c) # This is a comment**
+
+---
+
+**5. Which function is used to get the length of a list in Python?**
+- a) len()  
+- b) length()  
+- c) size()  
+- d) get_length()  
+- **Correct answer: a) len()**
+
+---
+
+Let me know if you'd like more questions!
